@@ -19,7 +19,7 @@ VBulk Downloader is a simple and efficient application for downloading YouTube v
 
 ## Installation & Usage
 
-1. **Download the executable** from the [GitHub releases](#) *(Add your release link here)*.  
+1. **Download the VBulk Downloader** 
 2. **Run the application** – no additional setup required.  
 3. **Paste your YouTube URLs** into the app.  
 4. **Select download format** (Video/MP3) and click **Start Download**.  
