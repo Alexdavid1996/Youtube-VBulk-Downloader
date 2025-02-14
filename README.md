@@ -31,13 +31,16 @@ VBulk Downloader is a simple and efficient application for downloading YouTube v
 
 ## Screenshots
 
-*(Add screenshots here if available)*
+![Main Interface](https://github.com/Alexdavid1996/Youtube-VBulk-Downloader/blob/main/Screenshots/Vbulk%20Downloader.png?raw=true)
+![Downloading](https://github.com/Alexdavid1996/Youtube-VBulk-Downloader/blob/main/Screenshots/Downloading.png?raw=true)
 
 ## Developer
 
 Created by **Alex David**.  
 - 🌐 [Website](https://www.duteczone.net/)  
 - 🎥 [YouTube Channel](https://www.youtube.com/@BitConfused)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-david-du-ba01601b1/)  
+
 
 ## Disclaimer
 
