@@ -2,6 +2,8 @@
 
 VBulk Downloader is a simple and efficient application for downloading YouTube videos in bulk. It supports both video and audio downloads with real-time progress tracking.
 
+![Main Interface](https://github.com/Alexdavid1996/Youtube-VBulk-Downloader/blob/main/Screenshots/Vbulk.png?raw=true)
+
 ## Features
 
 - 🎥 Download full YouTube videos (up to 1080p)  
